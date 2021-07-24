@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'hết dịch mình đi chơi nhaaa.',
     btnAccept: 'Okiiiii lun <3',
- 
+}
 
